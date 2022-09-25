@@ -8,8 +8,6 @@ Em um banco de dados relacional, cada linha na tabela é um registro com uma ID 
 contêm atributos dos dados e cada registro geralmente tem um valor para cada atributo, facilitando o estabelecimento das relações 
 entre os pontos de dados.
 
-https://www.oracle.com/br/database/what-is-a-relational-database/
-
 ## Banco de dados não relacionais (NoSQL)
 
 Bancos de dados NoSQL são criados para modelos de dados específicos e têm esquemas flexíveis para a criação de aplicativos modernos. 
@@ -22,6 +20,5 @@ Os bancos de dados NoSQL permitem que os dados sejam armazenados de maneiras mai
 da maneira como os dados são usados pelos aplicativos - com menos transformações necessárias ao armazenar ou recuperar usando APIs 
 no estilo NoSQL. Além disso, os bancos de dados NoSQL podem aproveitar ao máximo a nuvem para oferecer tempo de inatividade zero.
 
-https://aws.amazon.com/pt/nosql/
 
 ## Engenheiro de dados X SQL e NoSQL
